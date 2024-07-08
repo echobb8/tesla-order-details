@@ -3,7 +3,7 @@
 Tesla Order Details is a simple tool designed to periodically check for changes in Tesla vehicle orders. It utilizes the Tesla API to monitor your order status.
 
 ![Terminal Screenshot](docs/image-2.png)
-![Telegram Screenshot](docs/image-1.png)
+<img src="image-1.jpg" alt="Telegram" width="400"/>
 
 ## Features
 - **Automatic Checking**: Calls the Tesla API every 3 minutes to detect any updates in the order.
